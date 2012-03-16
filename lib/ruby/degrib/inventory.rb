@@ -1,7 +1,8 @@
 module Ruby::Degrib
-  class Inventory
-    def self.list(filename)
-      filename
+  module Inventory
+    def inventory(filename)
+      #Binary.execute(filename)
+      "asdasd"
     end
   end
 end
