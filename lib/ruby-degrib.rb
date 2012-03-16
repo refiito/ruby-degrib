@@ -1,4 +1,4 @@
-require "ruby-degrib/version"
+require "ruby-degrib/*"
 
 module Ruby
   module Degrib
