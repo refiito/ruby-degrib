@@ -1,7 +1,1 @@
-require "ruby-degrib/*"
-
-module Ruby
-  module Degrib
-    # Your code goes here...
-  end
-end
+require "ruby/degrib"

@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "ruby-degrib/version"
+require "ruby/degrib/version"
 
 Gem::Specification.new do |s|
   s.name        = "ruby-degrib"
